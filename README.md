@@ -7,3 +7,7 @@ only resource is "labelling-strategy", which describes how labels for issues
 of open-source projects can be managed.
 
 Feel free to open an issue on potential extensions of saamwerk.
+
+Contents
+========
+1. [Issue Mamagement](issue-mangement/labelling-strategy.md)
