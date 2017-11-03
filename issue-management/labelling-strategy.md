@@ -1,6 +1,5 @@
 Labelling Strategy
 ================
-Lorenz Walthert
 11/3/2017
 
 Overview
