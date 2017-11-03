@@ -10,4 +10,4 @@ Feel free to open an issue on potential extensions of saamwerk.
 
 Contents
 ========
-1. [Issue Mamagement](issue-mangement/labelling-strategy.md)
+1. [Issue Mamagement](https://github.com/lorenzwalthert/saamwerk/blob/master/issue-management/labelling-strategy.md)
