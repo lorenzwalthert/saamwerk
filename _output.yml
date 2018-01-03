@@ -1,0 +1,5 @@
+bookdown::gitbook:
+  css: style.css
+  config:
+    edit: https://github.com/lorenzwalthert/saamwerk/edit/master/%s
+    sharing: no
