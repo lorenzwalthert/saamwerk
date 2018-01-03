@@ -1,6 +1,6 @@
 ---
-title: "A Book"
-author: "Frida Gomam"
+title: "Sammwerk"
+author: "Lorenz Walthert"
 site: bookdown::bookdown_site
 documentclass: book
 output:
@@ -8,8 +8,9 @@ output:
   bookdown::pdf_book: default
 ---
 
-# Hello World
+# Resources to collaborate on open-source projects
 
-Hi.
+saamwerk (collaborate in Africaans) is a collection of resources that should 
+help facilitate the collaboration on open-source projects.
 
-Bye.
+Feel free to open an issue on potential extensions of saamwerk.

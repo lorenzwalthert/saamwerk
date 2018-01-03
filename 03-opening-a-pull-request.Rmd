@@ -1,0 +1,35 @@
+# Creating a pull request
+
+## Before creating a pull request
+
+Before you create a PR, please do the following: 
+
+- think about what your role is in the project. Are you in a position where 
+  you can contribute code to the project (via a PR) or does it make more sense 
+  if you focus on pointing to the problems and let other people fix it (via 
+  issues) that have more experience with the project?
+- if you think you are suited to make a code contribution, make sure the changes
+  you suggestion are welcome. You can best check that 
+  by opening an issue on the repository. To make clear you are intending to 
+  create the PR that would resolve the issue, you can use key words in the 
+  issue title to indicate that you want to know whether the maintainers would be 
+  open to your suggestions. For example, the issue title 
+  "Consider removing dplyr dependency" indicates already that you would like to 
+  remove a dependency from the project.
+- Once you have the clearance from the repo maintainers, make sure you are using
+  the development version of the project before you start contributing.
+
+## Actually creating a pull request
+
+- first read the contributing guide of the project if there is one and try to 
+  understand the structure of the project. If the project is large, there is 
+  most likely some documentation available that helps you to get started. Pay
+  attention to the style and conventions used in the project by looking at other
+  code. Your contribution should fit as well as possible in the code base.
+- Use git wisely, i.e. break down your contribution in smaller proportions and 
+  commit each of them separately with an informative commit message.
+- make sure to include / update unit tests and documentation along the new code.
+- when creating the pull request, reference the issue and describe the changes
+  you want to introduce on a high level. If you are uncertain about whether 
+  some of your contribution is adequate, include questions about it in the 
+  pull request to make it easy for reviewers to spot potential issues.
