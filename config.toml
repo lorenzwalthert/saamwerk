@@ -1,5 +1,5 @@
 baseURL = "https://lorenzwalthert.github.io/saamwerk"
 languageCode = "en-us"
 title = "Saamwerk"
-publishDir = "public"
+publishDir = "docs"
 

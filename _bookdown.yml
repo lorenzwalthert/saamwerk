@@ -1,5 +1,5 @@
 book_filename: "Saamwerk"
-output_dir: "public"
+output_dir: "docs"
 language:
   ui:
     edit: "Edit"
