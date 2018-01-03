@@ -1,6 +1,6 @@
 ---
-title: "Sammwerk"
-author: "Lorenz Walthert"
+title: "Saamwerk"
+subtitle: "Resources to collaborate on open-source projects"
 site: bookdown::bookdown_site
 documentclass: book
 output:
@@ -8,8 +8,7 @@ output:
   bookdown::pdf_book: default
 ---
 
-# Resources to collaborate on open-source projects
-
+# Introduction
 saamwerk (collaborate in Africaans) is a collection of resources that should 
 help facilitate the collaboration on open-source projects.
 

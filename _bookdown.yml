@@ -1,0 +1,5 @@
+book_filename: "Saamwerk"
+output_dir: "docs"
+language:
+  ui:
+    edit: "Edit"
